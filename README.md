@@ -8,3 +8,6 @@ https://analisis.datosabiertos.jcyl.es/explore/dataset/situacion-epidemiologica-
 
 ## link al visor cartográfico:
 https://ferhd96.github.io/Mapa_Covid_CYL/CovidCastillayLeon.html
+
+## Autores
+Francisco Alonso Fernández y Fernando Hernández de Vega
